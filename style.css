@@ -289,7 +289,10 @@ li {
     line-height: 133%;
     text-align: center;
     color: #000000;
+}
 
+.features-statistics__text-thin {
+    font-weight: 400;
 }
 
 /* section.gallery2 */
